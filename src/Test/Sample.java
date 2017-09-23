@@ -8,5 +8,6 @@ public class Sample {
         System.out.println("Hello World");
         System.out.println("Hello Java Developer");
         System.out.println("Hello Unix Developer");
+        System.out.println("Hello sql Developer");
     }
 }
